@@ -25,7 +25,7 @@ https://public.tableau.com/en-us/s/resources
 <p>De 1970 a 2019 | Incorporated Research Institutions for Seismology (IRIS)</p>
 https://www.iris.edu/hq/
 
-<h3>Nota</h3>
+<h3>Notas</h3>
 <p>Para pruebas se deben tomar los datos desde 1970 a 2019 ya que el formato Unix solo funciona con fechas desde el año 1970</p>
 <p>Este modelo ha sido realizado con motivos de aprendizaje</p>
 
