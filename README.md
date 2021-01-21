@@ -1,5 +1,7 @@
 <h1>Modelo de predicción de terremotos con red neuronal</h1>
 
+<p>El modelo tiene una precisión de 86%</p>
+
 <h2>Requerimientos</h2>
 <p>Python 3.8.7</p>
 <p>Librerías: Numpy 1.19.5, Pandas 1.2.0, Sklearn 0.0, Keras 2.4.3, Tensorflow 2.4.0, Datetime 4.3</p>
