@@ -37,7 +37,7 @@ print(data.head())
 print(data.shape)
 print(data.dtypes)
 
-# 4) Convirtiendo la fecha/hora a formato Unix para que pueda ser procesada por la red neuronal y visualizando el nuevo set de datos
+# 4) Convirtiendo la fecha/hora a formato Unix (solo admite datos a partir de 1970) para que pueda ser procesada por la red neuronal y visualizando el nuevo dataset
 
 import datetime
 import time
