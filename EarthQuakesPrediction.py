@@ -28,7 +28,7 @@ import pandas as pd
 
 # 2) Cargando y leyendo el set de datos históricos (el archivo csv tiene ; como separador)
 
-data = pd.read_csv("EarthQuakes-Data-1900-2019.csv", sep=';')
+data = pd.read_csv("EarthQuakes-Data-1970-2019.csv", sep=';')
 data.columns
 
 # 3) Visualizando encabezado de tabla, cantidad de registros y tipos de datos
